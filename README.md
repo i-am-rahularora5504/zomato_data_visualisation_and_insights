@@ -5,8 +5,8 @@
 ## Overview
 Conducted comprehensive data analysis of Zomato restaurant listings using Python to uncover valuable insights into dining trends, pricing patterns, and customer preferences. Leveraged data visualization techniques to transform raw restaurant data into actionable business intelligence, demonstrating strong analytical capabilities and proficiency in Python's data science stack.
 
-**Zomato Restaurants dataset: Present in the files.
----
+**Zomato Restaurants dataset:** Zomato-data.csv
+
 
 **1. Importing necessary Python libraries**
 ```python
